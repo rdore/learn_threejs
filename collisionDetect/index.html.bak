@@ -1,0 +1,19 @@
+<!doctype html>
+<html>
+	<head>
+		<style>
+			body {
+				font-family: Monospace;
+				background-color: #f0f0f0;
+				margin: 0px;
+				overflow: hidden;
+			}
+		</style>
+	</head>
+	<body>
+		<script type="text/javascript" src="Three.js"></script>
+		
+		<script type="text/javascript" src="testThreejs.js"></script>
+	</body>
+</html>
+
